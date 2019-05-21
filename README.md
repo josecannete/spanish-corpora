@@ -28,7 +28,6 @@ Available to download here:
 Two post-processing scripts included (corpus_processing.py and split_punctuation.py). The available data was processed just with the first one.
 
 Using process_corpus.py:
-
 - Lowercase
 - Removed urls
 - Removed listing
