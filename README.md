@@ -1,4 +1,4 @@
-# Unannotated Spanish Corpora
+# Spanish Unannotated Corpora
 
 This repository gathers a compilation of corpus in Spanish language.
 Available to download here: 
