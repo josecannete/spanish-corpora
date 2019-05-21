@@ -1,7 +1,9 @@
 # Spanish Unannotated Corpora
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3066517.svg)](https://doi.org/10.5281/zenodo.3066517)
+
 This repository gathers a compilation of corpus in Spanish language.
-Available to download here: 
+Available to download here: [Zenodo](https://zenodo.org/record/3066517/files/preprocessed.zip?download)
 
 ## Data
 
