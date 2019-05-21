@@ -25,6 +25,8 @@ Available to download here:
 
 ## Post-processing
 
+Two post-processing scripts included (corpus_processing.py and split_punctuation.py). The available data was processed just with the first one.
+
 Using process_corpus.py:
 
 - Lowercase
