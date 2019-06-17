@@ -7,11 +7,11 @@ Available to download here: [Zenodo](https://zenodo.org/record/3066517/files/pre
 
 ## Data
 
-*Number of lines*: 277550238 (278M)
+*Number of lines*: 300904000 (300M)
 
-*Number of tokens*: 2588948314 (2.6B)
+*Number of tokens*: 2996016962 (3B)
 
-*Number of chars*: 15836352897 (15.8B)
+*Number of chars*: 18431160978 (18.4B)
 
 ## Sources
 
