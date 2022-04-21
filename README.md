@@ -54,3 +54,30 @@ Using process_corpus.py:
 - Removed urls
 - Removed listing
 - Replaced multiple spaces with single one
+
+## Citation
+
+[Spanish Pre-Trained BERT Model and Evaluation Data](https://users.dcc.uchile.cl/~jperez/papers/pml4dc2020.pdf)
+
+To cite this resource in a publication please use the following:
+
+```
+@inproceedings{CaneteCFP2020,
+  title={Spanish Pre-Trained BERT Model and Evaluation Data},
+  author={Cañete, José and Chaperon, Gabriel and Fuentes, Rodrigo and Ho, Jou-Hui and Kang, Hojin and Pérez, Jorge},
+  booktitle={PML4DC at ICLR 2020},
+  year={2020}
+}
+```
+
+```
+@dataset{jose_canete_2019_3247731,
+  author       = {José Cañete},
+  title        = {Compilation of Large Spanish Unannotated Corpora},
+  month        = may,
+  year         = 2019,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.3247731},
+  url          = {https://doi.org/10.5281/zenodo.3247731}
+}
+```
