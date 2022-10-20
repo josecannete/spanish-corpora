@@ -1,5 +1,10 @@
 # Spanish Unannotated Corpora
 
+<p>
+<a href="https://console.tiyaro.ai/explore?q=dccuchile/bert-base-spanish-wwm-&pub=dccuchile"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a>
+</p>
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3247731.svg)](https://doi.org/10.5281/zenodo.3247731)
 
 This repository gathers a compilation of corpus in Spanish language.
